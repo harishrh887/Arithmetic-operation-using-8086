@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-09-03 at 12 04 07_48909729](https://github.com/user-attachments/assets/f96c5040-7500-4c4f-99b9-a8ec2184eeff)# Arithmetic-operation-using-8086
+
 # 8086 Assembly Language Programs for Arithmetic Operations
 
 ## AIM
