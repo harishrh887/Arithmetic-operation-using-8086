@@ -1,4 +1,4 @@
-# Arithmetic-operation-using-8086
+![WhatsApp Image 2025-09-03 at 12 04 07_48909729](https://github.com/user-attachments/assets/f96c5040-7500-4c4f-99b9-a8ec2184eeff)# Arithmetic-operation-using-8086
 # 8086 Assembly Language Programs for Arithmetic Operations
 
 ## AIM
@@ -171,9 +171,10 @@ END
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 
- <img width="552" height="328" alt="Screenshot 2025-08-30 093434" src="https://github.com/user-attachments/assets/785b5129-1bf6-4b6c-a461-ef885a697f9c" />
+![WhatsApp Image 2025-09-03 at 12 03 01_9c0c6750](https://github.com/user-attachments/assets/e4a499cf-fb8e-4a1f-926d-879ace6e3acb)
 
- <img width="660" height="411" alt="Screenshot 2025-08-30 093647" src="https://github.com/user-attachments/assets/4c691dfa-a0ac-4df4-90ba-c68c4620f470" />
+
+![WhatsApp Image 2025-09-03 at 12 03 44_2138a24d](https://github.com/user-attachments/assets/7ca42b30-5c3a-4bd4-84d8-19451cdce733)
 
 
 ## 4. DIVISION
@@ -223,10 +224,10 @@ END
 
 ---<img width="738" height="576" alt="image" src="https://github.com/user-attachments/assets/024d6a5c-9956-4ccd-8751-494f3c7ea6dc" />
 ## OUTPUT FROM MASM SOFTWARE
+![WhatsApp Image 2025-09-03 at 12 02 36_e25dfa43](https://github.com/user-attachments/assets/57295aa3-9641-45a8-8bef-8710e60ca79c)
 
-<img width="635" height="338" alt="Screenshot 2025-08-30 093945" src="https://github.com/user-attachments/assets/9db0ac03-8acd-4d11-af7f-b0e01fe43c3f" />
+![WhatsApp Image 2025-09-03 at 12 04 07_cff67e54](https://github.com/user-attachments/assets/7b586a2c-720b-4731-9c6a-bd303e69dcc8)
 
-<img width="655" height="411" alt="Screenshot 2025-08-30 094212" src="https://github.com/user-attachments/assets/e620def0-02e9-463d-872f-ced8e1d532cf" />
 
 
 ## RESULT
